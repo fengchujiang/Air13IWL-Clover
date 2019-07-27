@@ -2,6 +2,7 @@
 
 + 更新`SSDT-Air13IWL.aml`
 + 从`Air13IWL.kext`中分离`BrcmBluetoothInjector.kext `
++ 添加`Config.plist` -`RtVariables` - `CsrActiveConfig` 参数  `0x67`，默认关闭SIP
 
 #### 2019-07-26
 
