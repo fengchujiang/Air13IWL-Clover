@@ -1,7 +1,7 @@
 #### 2019-07-27
 
-+ 从`Air13IWL.kext`中分离`BrcmBluetoothInjector.kext `
 + 更新`Air13IWL.aml`
++ 从`Air13IWL.kext`中分离`BrcmBluetoothInjector.kext `
 
 #### 2019-07-26
 
