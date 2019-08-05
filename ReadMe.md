@@ -1,5 +1,7 @@
 #### 2019-08-03
 
++ 更新Clover版本5033
+
 - 移除声卡注入`device-id`，修改`Air13IWL.kext`，声卡驱动`AppleALC.kext`可单独使用不在受`FakePCIID.kext`和`FakePCIID_Intel_HDMI_Audio.kext`影响，使用HDMI音频仍需`FakePCIID.kext`
 - 移除部分驱动内的非必要文件
 
