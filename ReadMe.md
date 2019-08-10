@@ -1,3 +1,7 @@
+#### 2019-08-10
+
++ 添加 `BrcmFirmwareData.kext` , `BrcmPatchRAM2.kext`（`DW1820A`蓝牙驱动）,此驱动经过修改只适合ID：`0a5c_6412`使用
+
 #### 2019-08-03
 
 + 更新Clover版本5033
