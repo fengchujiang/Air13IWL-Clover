@@ -1,3 +1,8 @@
+#### 2019-08-12
+
++ 更新Clover版本至5045
++ 更新`Acidanthera`所有驱动
+
 #### 2019-08-10
 
 + 定制`AppleALC.kext`,默认使用子骏ID：98（62000000）无需使用`ALCPlugFix`和`CodecCommander.kext` ,3.5mm麦克风需要手动切换；可选原版小兵ID：99（63000000）需安装 `ALCPlugFix` 并使用 `CodecCommander.kext` 
