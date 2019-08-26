@@ -118,11 +118,11 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AACbPg==
+				BQCmPg==
 				</data>
 				<key>device-id</key>
 				<data>
-				mz4AAA==
+				pj4AAA==
 				</data>
 				<key>enable-hdmi-dividers-fix</key>
 				<data>
@@ -256,7 +256,7 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>ProductName</key>
-		<string>MacBookPro15,2</string>
+		<string>MacBookPro15,4</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
