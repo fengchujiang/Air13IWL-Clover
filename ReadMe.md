@@ -1,3 +1,34 @@
+## Lenovo 小新 Air13IWL Clover `(xlivans)`
+### 感谢 宪武 小兵 各位群友 大佬们 为此机型的辛苦付出
+
+##### 如何安装系统请跳跃至小兵大佬教程 : https://github.com/daliansky/Lenovo-Air13-IWL
+
+##### 配置说明 : https://github.com/xlivans/Air13IWL
+
+##### 自用 OpenCore : https://github.com/xlivans/Air13IWL-OC
+
+##### 自用 Clover : https://github.com/xlivans/Air13IWL-Clover
+
+##### 微云 : https://share.weiyun.com/5yMO9jB
+
+----
+
+#### 2019-08-26
+
++ 更新机型和变频数据使用`MacBookPro15,4`
++ 更新显卡ID使用`3EA60005`,解决高Hidpi异常问题
+
+#### 2019-08-12
+
++ 更新Clover版本至5045
++ 更新`Acidanthera`所有驱动
+
+#### 2019-08-10
+
++ 定制`AppleALC.kext`,默认使用子骏ID：98（62000000）无需使用`ALCPlugFix`和`CodecCommander.kext` ,3.5mm麦克风需要手动切换；可选原版小兵ID：99（63000000）需安装 `ALCPlugFix` 并使用 `CodecCommander.kext` 
+
++ 添加 `BrcmFirmwareData.kext` , `BrcmPatchRAM2.kext`（`DW1820A`蓝牙驱动）,此驱动经过修改只适合ID：`0a5c_6412`使用
+
 #### 2019-08-03
 
 + 更新Clover版本5033
